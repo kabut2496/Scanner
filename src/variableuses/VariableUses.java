@@ -7,8 +7,9 @@
 package variableuses;
 import java.util.Scanner;
 /**
- *
- * @author kabut2496
+*Karl Butler
+* October 1 2018
+*the reson for doing this it to learn stufffff
  */
 public class VariableUses {
 
